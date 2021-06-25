@@ -34,5 +34,12 @@ const localQuotes = [
       {
         text: 'Life is a learning experience, only if you learn.',
         author: 'Yogi Berra',
+      },  {
+        text: 'Today is the tomorrow we worried about yesterday.',
+      author: null
       },
+      {
+        text: 'It is easier to see the mistakes on someone else is paper.',
+        author: null
+      }
 ];
